@@ -3,7 +3,7 @@
     "description": "A simple index page for sami generated documentations",
     "type": "project",
     "require": {
-        "ext-curl": "^7.1",
+        "ext-curl": ">=5",
         "php": ">=5.6"
     },
     "license": "MIT",
