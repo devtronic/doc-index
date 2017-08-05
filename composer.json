@@ -1,0 +1,20 @@
+{
+    "name": "devtronic/doc-index",
+    "description": "A simple index page for sami generated documentations",
+    "type": "project",
+    "require": {
+        "ext-curl": "^7.1",
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Julian Finkler",
+            "email": "julian@developer-heaven.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "suggest": {
+        "sami/sami": "4.0.*"
+    }
+}

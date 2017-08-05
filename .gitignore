@@ -1,0 +1,5 @@
+docs/*
+!docs/.gitkeep
+/vendor/
+repos.json
+user.txt
